@@ -1,6 +1,6 @@
 # 👨🏻‍💻 [Dariush Aligholizadeh](https://hsuirad.github.io)
 
-[![Linkedin Badge](https://img.shields.io/badge/-Dariush%20Aligholizadeh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/dariush-aligholizadeh/)](https://www.linkedin.com/in/dariush-aligholizadeh-8a9094199/) [![GitHub followers](https://img.shields.io/github/followers/hsuirad?label=Follow&style=social)](https://github.com/hsuirad/?tab=follow) [![Gmail Badge](https://img.shields.io/badge/-daligho1@umbc.edu-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:daligho1@umbc.edu)](mailto:daligho1@umbc.edu) 
+[![Linkedin Badge](https://img.shields.io/badge/-Dariush%20Aligholizadeh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/dariush-aligholizadeh/)](https://www.linkedin.com/in/dariush-aligholizadeh-8a9094199/)                            [![GitHub followers](https://img.shields.io/github/followers/hsuirad?label=Follow&style=social)](https://github.com/hsuirad/?tab=follow)                            [![Gmail Badge](https://img.shields.io/badge/-daligho1@umbc.edu-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:daligho1@umbc.edu)](mailto:daligho1@umbc.edu) 
 
 
 <!-- :man_technologist: Personal Site: [anuragsingh.dev](https://anuragsingh.dev) ╼╾ 🐦 Twitter: [ashleymavericks](https://twitter.com/ashlyemavericks) ╼╾ :mailbox_with_mail: Linkedin: [ashlyemavericks](https://www.linkedin.com/in/ashlyemavericks/) -->
