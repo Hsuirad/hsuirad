@@ -1,9 +1,11 @@
 <!-- "Hero" Header -->
+[![Linkedin Badge](https://img.shields.io/badge/-Dariush%20Aligholizadeh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/dariush-aligholizadeh/)](https://www.linkedin.com/in/dariush-aligholizadeh-8a9094199/)                            [![GitHub followers](https://img.shields.io/github/followers/hsuirad?label=Follow&style=social)](https://github.com/hsuirad/?tab=follow)                            [![Gmail Badge](https://img.shields.io/badge/-daligho1@umbc.edu-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:daligho1@umbc.edu)](mailto:daligho1@umbc.edu) 
+
 <div align="center">
   <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
   <br />
   <br />
-  <img height="50" alt="My Name is Livio and I like Node.js" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/personal_note.svg" />
+  :wave: hi. am dariush. hi
   <br />
   <br />
 
@@ -13,7 +15,7 @@
 <table width="100%">
 <tr>
 <td align="center">
-<a href="https://brunnerliv.io">
+<a href="https://hsuirad.github.io">
 <strong>Visit my personal website </strong>
 <br />
 <br />
@@ -50,10 +52,6 @@
 </td>
 </tr>
 </table>
-
-👨🏻‍💻 [Dariush Aligholizadeh](https://hsuirad.github.io)
-
-[![Linkedin Badge](https://img.shields.io/badge/-Dariush%20Aligholizadeh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/dariush-aligholizadeh/)](https://www.linkedin.com/in/dariush-aligholizadeh-8a9094199/)                            [![GitHub followers](https://img.shields.io/github/followers/hsuirad?label=Follow&style=social)](https://github.com/hsuirad/?tab=follow)                            [![Gmail Badge](https://img.shields.io/badge/-daligho1@umbc.edu-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:daligho1@umbc.edu)](mailto:daligho1@umbc.edu) 
 
 <!-- Footer -->
 
