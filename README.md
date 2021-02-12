@@ -33,7 +33,7 @@
 <span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
 </td>
 <td align="center">
-<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/new?template=Guestbook_entry.md">
+<a href="https://github.com/hsuirad/hsuirad/issues/new?template=Guestbook_entry.md">
 <strong>Sign my guest book</strong>
 <br />
 
