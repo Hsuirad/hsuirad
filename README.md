@@ -1,20 +1,68 @@
-# 👨🏻‍💻 [Dariush Aligholizadeh](https://hsuirad.github.io)
+<!-- "Hero" Header -->
+<div align="center">
+  <img src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/welcome.png?raw=true" style="max-width: 100%;" alt="Welcome to my Github Profile" />
+  <br />
+  <br />
+  <img height="50" alt="My Name is Livio and I like Node.js" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/personal_note.svg" />
+  <br />
+  <br />
+
+</div>
+
+<!-- Social -->
+<table width="100%">
+<tr>
+<td align="center">
+<a href="https://brunnerliv.io">
+<strong>Visit my personal website </strong>
+<br />
+<br />
+
+<!-- Centering something has never been easy, has it? -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<img alt="Globe" height="80" src="https://github.com/BrunnerLivio/brunnerlivio/blob/master/images/globe.gif?raw=true">
+</a>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+</td>
+<td align="center">
+<a href="https://github.com/BrunnerLivio/brunnerlivio/issues/new?template=Guestbook_entry.md">
+<strong>Sign my guest book</strong>
+<br />
+
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span> 
+<img height="100" alt="Book" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/book.gif"> 
+</a>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>
+<span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</span>    
+</td>
+</tr>
+</table>
+
+👨🏻‍💻 [Dariush Aligholizadeh](https://hsuirad.github.io)
 
 [![Linkedin Badge](https://img.shields.io/badge/-Dariush%20Aligholizadeh-blue?style=social&logo=Linkedin&logoColor=blue&link=https://www.linkedin.com/in/dariush-aligholizadeh/)](https://www.linkedin.com/in/dariush-aligholizadeh-8a9094199/)                            [![GitHub followers](https://img.shields.io/github/followers/hsuirad?label=Follow&style=social)](https://github.com/hsuirad/?tab=follow)                            [![Gmail Badge](https://img.shields.io/badge/-daligho1@umbc.edu-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:daligho1@umbc.edu)](mailto:daligho1@umbc.edu) 
 
-:wave: hi. am dariush. hi
+<!-- Footer -->
 
-## 💻 My Tech Stack
+<div align="center">
 
-<!-- START OF PROFILE STACK, DO NOT REMOVE -->
-| 💻 **Technology** | 🚀 **Projects** |
-|-|-|
-| [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=FFFFFF)](https://www.python.org/) | [![hackbout-certificate-generator](https://img.shields.io/static/v1?label=hackbout-certificate-generator&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/HackClub-NMIT/hackbout-certificate-generator) |
-| [![JavaScript](https://img.shields.io/static/v1?label=&message=JavaScript&color=F1E05A&logo=javascript&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/JavaScript) | [![Speaking-Geo-Assistant-Backend](https://img.shields.io/static/v1?label=Speaking-Geo-Assistant-Backend&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/ashleymavericks/Speaking-Geo-Assistant-Backend) |
-| [![Node.js](https://img.shields.io/static/v1?label=&message=Node.js&color=47d147&logo=node.js&logoColor=FFFFFF)](https://nodejs.org/en/) | [![Civil-Services-Assistant](https://img.shields.io/static/v1?label=Civil-Services-Assistant&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/ashleymavericks/Civil-Services-Assistant) [![Dietary-Care](https://img.shields.io/static/v1?label=Dietary-Care%20%28WIP%29&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/ashleymavericks/Dietary-Care) |
-| [![Kotlin](https://img.shields.io/static/v1?label=&message=Kotlin&color=4FA1EF&logo=kotlin&logoColor=FFFFFF)](https://kotlinlang.org/) | [![Hospital-Droid](https://img.shields.io/static/v1?label=Hospital-Droid&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/ashleymavericks/Hospital-Droid) [![Speaking-Geo-Assistant-Frontend](https://img.shields.io/static/v1?label=Speaking-Geo-Assistant-Frontend&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/ashleymavericks/Speaking-Geo-Assistant-Frontend) |
-| [![HTML](https://img.shields.io/static/v1?label=&message=HTML&color=ff751a&logo=HTML5&logoColor=FFFFFF)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5) | [![Portfolio-Site](https://img.shields.io/static/v1?label=Portfolio-Site&message=%20&color=000605&logo=github&logoColor=white&labelColor=000605)](https://github.com/ashleymavericks/Portfolio-Site) |
-<!-- END OF PROFILE STACK, DO NOT REMOVE -->
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
+
+![Visitor Count](https://profile-counter.glitch.me/hsuirad/count.svg)
 
 Here are some [🦜 parrots](https://cultofthepartyparrot.com):
 
@@ -43,4 +91,14 @@ Here are some [🦜 parrots](https://cultofthepartyparrot.com):
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
+</div>
+
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<!-- "margin-right: whatever;" -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+
 </div>
